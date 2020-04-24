@@ -38,9 +38,9 @@ int countWord(char *str,int length){
    return result+1; 
 }
 int main(){
-    // char str[]="To be or not to be        This is a question";
-    char str[100];
-    gets(str);
+    char str[]="To be or not to be        This is a question";
+    // char str[100];
+    // gets(str);
     int length=strlen(str);
     int res=countWord(str,length);
     printf("%d",res);
