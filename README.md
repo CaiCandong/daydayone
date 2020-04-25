@@ -8,7 +8,7 @@
 - [x] day4[排序链表-归并排序](https://github.com/CaiCandong/daydayone/tree/master/src/day4)
 
 ## 2020-4-25
-- [ ] day5[排序链表-插入排序](https://github.com/CaiCandong/daydayone/tree/master/src/day5)
+- [x] day5[排序链表-插入排序](https://github.com/CaiCandong/daydayone/tree/master/src/day5)
 - [x] day6[爬楼梯](https://github.com/CaiCandong/daydayone/tree/master/src/day6)
 - [x] day7[判断子序列](https://github.com/CaiCandong/daydayone/tree/master/src/day7)
 

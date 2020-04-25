@@ -1,3 +1,3 @@
-#### [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
+#### [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
 
 来自力扣
