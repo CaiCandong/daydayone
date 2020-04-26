@@ -13,3 +13,8 @@
 - [x] day7[判断子序列](https://github.com/CaiCandong/daydayone/tree/master/src/day7)
 
     
+## 2020-4-26
+- [x] day7[349中南上机题一](https://github.com/CaiCandong/daydayone/tree/master/src/day7)
+- [x] day8[350中南上机题二](https://github.com/CaiCandong/daydayone/tree/master/src/day8)
+- [x] day9[350中南上机题三](https://github.com/CaiCandong/daydayone/tree/master/src/day9)
+
