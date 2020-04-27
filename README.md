@@ -16,5 +16,9 @@
 ## 2020-4-26
 - [x] day7[349中南上机题一](https://github.com/CaiCandong/daydayone/tree/master/src/day7)
 - [x] day8[350中南上机题二](https://github.com/CaiCandong/daydayone/tree/master/src/day8)
-- [x] day9[350中南上机题三](https://github.com/CaiCandong/daydayone/tree/master/src/day9)
+- [x] day9[351中南上机题三](https://github.com/CaiCandong/daydayone/tree/master/src/day9)
 
+## 2020-4-27
+- [x] day10[不同路径 II](https://github.com/CaiCandong/daydayone/tree/master/src/day10)
+- [x] day11[北京理工大学上机题（一）](https://github.com/CaiCandong/daydayone/tree/master/src/day11)
+- [x] day12[北京理工大学上机题（二）](https://github.com/CaiCandong/daydayone/tree/master/src/day12)
