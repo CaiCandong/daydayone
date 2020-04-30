@@ -29,5 +29,8 @@
 - [x] day14[杭州电子科技大学(一)](https://github.com/CaiCandong/daydayone/tree/master/src/day14)
 - [x] day15[杭州电子科技大学(二)](https://github.com/CaiCandong/daydayone/tree/master/src/day15)
 
-## 2020-4-28
+## 2020-4-29
 - [x] day16[马走日](https://github.com/CaiCandong/daydayone/tree/master/src/day16)
+## 2020-4-30
+- [x] day17[重排链表](https://github.com/CaiCandong/daydayone/tree/master/src/day17)
+- [x] day18[链表交并差](https://github.com/CaiCandong/daydayone/tree/master/src/day18)
