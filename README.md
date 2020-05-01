@@ -31,6 +31,10 @@
 
 ## 2020-4-29
 - [x] day16[马走日](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day16)
+
 ## 2020-4-30
 - [x] day17[重排链表](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day17)
 - [x] day18[链表交并差](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day18)
+
+## 2020-5-1
+- [x] day19[最大连续子](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day19)
