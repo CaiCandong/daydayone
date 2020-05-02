@@ -37,4 +37,6 @@
 - [x] day18[链表交并差](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day18)
 
 ## 2020-5-1
-- [x] day19[最大连续子](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day19)
+- [x] day19[最大连续子序和](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day19)
+## 2020-5-2
+- [x] day20[青蛙杯棒球比赛](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day20)

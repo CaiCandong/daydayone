@@ -1,5 +1,12 @@
 #include<stdio.h>
 #include <malloc.h>
+/**
+ * 动态规划算法:
+ * 以[-2,1,-3,4,-1,2,1,-5,4]为例子
+ * 状态定义:dp[i] 
+ * 
+ * 
+ */
 int maxSubArray(int array[],int length){
     int sum=0;
     int ret=array[0];
