@@ -44,3 +44,7 @@
 - [x] day21[树的结点个数](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day21)
 - [x] day22[二叉树所有具有两个子女的结点个数](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day22)
 - [x] day23[二叉树所有具有单个子女的结点个数](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day23)
+## 2020-5-4
+- [x] day24[45. 跳跃游戏 II](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day24)
+- [x] day25[55. 跳跃游戏 ](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day25)
+- [x] day26[41. 缺失的第一个正数](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day26)
