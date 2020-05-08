@@ -2,65 +2,65 @@
 
 ## 2020-4-24
 
-- [x] day1 [前正后负](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day1) 
-- [x] day2 [买卖股票的最佳时机](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day2)
-- [x] day3[单词个数统计](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day3) 
-- [x] day4[排序链表-归并排序](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day4)
+- [x] day1 [前正后负](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day1) 
+- [x] day2 [买卖股票的最佳时机](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day2)
+- [x] day3[单词个数统计](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day3) 
+- [x] day4[排序链表-归并排序](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day4)
 
 ## 2020-4-25
-- [x] day5[排序链表-插入排序](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day5)
-- [x] day6[爬楼梯](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day6)
-- [x] day7[判断子序列](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day7)
+- [x] day5[排序链表-插入排序](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day5)
+- [x] day6[爬楼梯](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day6)
+- [x] day7[判断子序列](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day7)
 
     
 ## 2020-4-26
-- [x] day7[349中南上机题一](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day7)
-- [x] day8[350中南上机题二](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day8)
-- [x] day9[351中南上机题三](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day9)
+- [x] day7[349中南上机题一](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day7)
+- [x] day8[350中南上机题二](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day8)
+- [x] day9[351中南上机题三](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day9)
 
 ## 2020-4-27
-- [x] day10[不同路径 II](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day10)
-- [x] day11[北京理工大学上机题（一）](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day11)
-- [x] day12[北京理工大学上机题（二）](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day12)
+- [x] day10[不同路径 II](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day10)
+- [x] day11[北京理工大学上机题（一）](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day11)
+- [x] day12[北京理工大学上机题（二）](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day12)
 
 
 ## 2020-4-28
-- [x] day13[北京理工大学上机题（三）](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day13)
-- [x] day14[杭州电子科技大学(一)](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day14)
-- [x] day15[杭州电子科技大学(二)](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day15)
+- [x] day13[北京理工大学上机题（三）](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day13)
+- [x] day14[杭州电子科技大学(一)](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day14)
+- [x] day15[杭州电子科技大学(二)](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day15)
 
 ## 2020-4-29
-- [x] day16[马走日](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day16)
+- [x] day16[马走日](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day16)
 
 ## 2020-4-30
-- [x] day17[重排链表](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day17)
-- [x] day18[链表交并差](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day18)
+- [x] day17[重排链表](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day17)
+- [x] day18[链表交并差](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day18)
 
 ## 2020-5-1
-- [x] day19[最大连续子序和](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day19)
+- [x] day19[最大连续子序和](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day19)
 ## 2020-5-2
-- [x] day20[青蛙杯棒球比赛](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day20)
+- [x] day20[青蛙杯棒球比赛](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day20)
 ## 2020-5-3
-- [x] day21[树的结点个数](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day21)
-- [x] day22[二叉树所有具有两个子女的结点个数](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day22)
-- [x] day23[二叉树所有具有单个子女的结点个数](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day23)
+- [x] day21[树的结点个数](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day21)
+- [x] day22[二叉树所有具有两个子女的结点个数](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day22)
+- [x] day23[二叉树所有具有单个子女的结点个数](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day23)
 ## 2020-5-4
-- [x] day24[45. 跳跃游戏 II](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day24)
-- [x] day25[55. 跳跃游戏 ](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day25)
-- [x] day26[41. 缺失的第一个正数](https://github.com/CaiCandong/daydayone/tree/master/src/1-100/day26)
+- [x] day24[45. 跳跃游戏 II](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day24)
+- [x] day25[55. 跳跃游戏 ](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day25)
+- [x] day26[41. 缺失的第一个正数](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day26)
 
 ## 2020-5-5
 
-- [x] day27[104. 二叉树的最大深度](/src/1-100/day27)
+- [x] day27[104. 二叉树的最大深度](/src/1-30/day27)
 
 ## 2020-5-6
 
-- [x] day28[2017哈工大854](/src/1-100/day28)
+- [x] day28[2017哈工大854](/src/1-30/day28)
 
 ## 2020-5-7
 
-- [x] day29[2016清华大学912](/src/1-100/day29)
+- [x] day29[2016清华大学912](/src/1-30/day29)
 
 ## 2020-5-8
 
-- [x] day30[第K个数](/src/1-100/day30)
+- [x] day30[第K个数](/src/1-30/day30)
