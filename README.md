@@ -67,5 +67,5 @@
 
 ## 2020-5-9
 
-- [x] day31[[华科834 链表差](https://github.com/guying100/day2/blob/master/day14/Code13.cpp)](/src/1-30/day31)
+- [x] day31[[华科834 链表差](/src/1-30/day31)
 
