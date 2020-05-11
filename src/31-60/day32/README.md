@@ -7,10 +7,79 @@
 p所指的结点为任一给定结点，编写算法，求从根节点到p所指结点之间的路径，叙述算法思想并给出算法实现，分析时间复杂度。
 
 ``` c
-typedef struct BitNode{  
-   int data; 
-   struct BitNode *left, *right;
-} *BiTree ;
+//二叉树结构
+typedef struct node {
+    int val;
+    struct node *left, *right;
+} BiNode, *BiLink;
+
+const int SIZE = 50;
+
+BiLink NewNode(int val) {
+    if (val == -1) {
+        return NULL;
+    }
+    BiLink ret = (BiLink) malloc(sizeof(BiNode));
+    ret->val = val;
+    ret->left = NULL;
+    ret->right = NULL;
+    return ret;
+}
+
+BiLink POINTER;
+
+//建立二叉树 层次遍历 输入完全二叉树 -1代表没有该节点
+BiLink create(int *array, int length, int index) {
+    //1.特判
+    if (length <= 0) {
+        return NULL;//无法创建
+    }
+    BiLink *nodes = (BiLink *) malloc(sizeof(BiNode) * length);
+    for (int i = 0; i < length; i++) {
+        nodes[i] = NewNode(array[i]);
+    }
+    //测试嵌入
+    POINTER = nodes[index];
+    for (int i = 0; i <= (length - 2) / 2; i++) {
+        if (nodes[i] == NULL) {
+            continue;
+        }
+        nodes[i]->left = nodes[i * 2 + 1];
+        nodes[i]->right = nodes[i * 2 + 2];
+    }
+    return nodes[0];
+}
+
+void travel(BiLink head) {
+    if (head == NULL) {
+        return;
+    }
+    travel(head->left);
+    printf("%d ", head->val);
+    travel(head->right);
+}
+
+bool solution(BiLink root, BiLink p) {
+    if (root == NULL) {
+        return false;
+    }
+    if (root == p) {
+        printf("%d", root->val);
+        return true;
+    }
+    if (solution(root->left, p) || solution(root->right, p)) {
+        printf("<-%d", root->val);
+        return true;
+    }
+}
+
+int main() {
+    int array[] = {1, 2, 3, 4, 5};
+    //第三个参数规定POINTER指向的位置
+    BiLink root = create(array, 5, 4);
+    solution(root, POINTER);
+}
+
 ```
 
 
