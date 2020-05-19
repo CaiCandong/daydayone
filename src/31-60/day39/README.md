@@ -1,18 +1,18 @@
-## [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
+# [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
 
-### 动态规划算法:
+## 动态规划算法:
 
-**1.状态定义**
+### **1.状态定义**
 
 dp_min[i]代表以nums[i]元素结尾的乘积最小乘积
 
 dp_max[i]代表以nums[i]结尾的最大乘积最大乘积
 
-**2.分类讨论**
+### **2.分类讨论**
 
 对于两个整数a和b，已知a<b 乘上第三个数c之后共得到3个整数:ac,bc,c。问它们之间的大小关系？
 
-**情况1:c>0**
+#### **情况1:c>0**
 
 2.1.1 0<a<b  --->  c<=ac<bc (因为a>=1 所以ac>=c) 
 
@@ -34,7 +34,7 @@ dp_min[i+1]=min(dp_min[i]*nums[i+1],c)
 
 dp_max[i+1]=max(dp_max[i]nums[i+1],c)
 
-**情况2：c<0**
+#### **情况2：c<0**
 
 2.2.1 0<a<b  --->  bc<ac<=c (因为a>=1 所以ac<=c) 
 
@@ -54,11 +54,13 @@ dp_min[i+1]=min(dp_max[i]*nums[i+1],c)
 
 dp_max[i+1]=max(dp_min[i]nums[i+1],c)
 
-**情况3：c=0**
+#### **情况3：c=0**
 
 dp_min[i+1]=0
 
 dp_max[i+1]=0
+
+## c语言实现：
 
 ``` c
 
@@ -96,14 +98,6 @@ int maxProduct(int* nums, int numsSize){
            ret=dp_max[i];
        }
     }
-    // for(int i=0;i<numsSize;i++){
-    //     printf("%d ",dp_max[i]);
-    // }
-    // printf("\n");
-    //     for(int i=0;i<numsSize;i++){
-    //     printf("%d ",dp_min[i]);
-    // }
-    // printf("\n");
     return ret;
 }
 ```
