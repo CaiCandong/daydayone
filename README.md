@@ -1,5 +1,8 @@
 # daydayone
-
+## 21年成功上岸
+    数学 139 
+    专业课(408) 123 
+    总分 409
 ## 2020-4-24
 
 - [x] day1 [前正后负](https://github.com/CaiCandong/daydayone/tree/master/src/1-30/day1) 
